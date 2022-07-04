@@ -23,5 +23,4 @@ In order to accomplish this you'll need to work with:
 
 *css normalize.css- for cross-browser consistency 
 
-*scripts.js file-
-
+*scripts.js file- fetches employee information and displays in the directory
